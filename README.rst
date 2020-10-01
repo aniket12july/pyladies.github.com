@@ -51,3 +51,4 @@ How to submit a static page
 ===========================
 
 Simply create a RST or MD file in the Pages directory. Its title will appear in the navigation in TitleCase.
+THANKS FOR VISITING OUR WEBSITE:)
